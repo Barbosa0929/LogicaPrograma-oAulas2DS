@@ -1,0 +1,6 @@
+{'modelo': 'civic', 'marca': 'honda', 'preco': '60.000'}
+{'modelo': 'uno', 'marca': 'fiat', 'preco': '28.000'}
+{'modelo': 'civic', 'marca': 'honda', 'preco': '70.000'}
+{'modelo': 'uno', 'marca': 'fiat', 'preco': '28.000'}
+{'modelo': 'civic', 'marca': 'honda', 'preco': '70.000'}
+{'modelo': 'uno', 'marca': 'fiat', 'preco': '28.000'}
